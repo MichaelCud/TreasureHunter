@@ -6,7 +6,7 @@ Its purpose to fly with drone and find 3D objects which have been hidden
 in the room.
 
 # 2. Prerequisites
-We have tested the project in **16.04** and **Ros Kinetic**, but it should be easy to compile in other platforms. A powerful computer (e.g. i7) will ensure real-time performance and provide more stable and accurate results.
+We have tested the project in **Ubuntu 16.04** and **Ros Kinetic**, but it should be easy to compile in other platforms. A powerful computer (e.g. i7) will ensure real-time performance and provide more stable and accurate results.
 Drone model is tello dji.
 
 ## Pangolin
