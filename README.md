@@ -59,7 +59,7 @@ after you've created catkin_ws, do:
 4. turn on your tello drone and connect to drone's WiFi access point (TELLO_XXXXXX)
 5. wait for connection
 6. roslaunch orb_slam2_ros find_the_treasure.launch
-7. if everithing is ok then you will see pangolin gui opened with image recieved from drone.
+7. if everything is ok then you will see pangolin gui opened with image recieved from drone.
 
 for control the drone, open another terminal:
 1. cd ~/catkin_ws
